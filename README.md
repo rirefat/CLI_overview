@@ -6,6 +6,7 @@
 
 ## Some important command lines are:
 - To check the present command line: type ``ps`` & press enter
+- To clear present command line: type ``clear`` & press enter
 - To check the existing files and folders of the present directory: type ``ls`` & press enter. 
 - To change the directory from the present directory: type ``cd directoryName`` & press enter. The target directory must be the child directory of the present directory. Otherwise the command line won't work.
 - To change directory one step backward from the current directory: type ``cd ..`` & press enter. 
